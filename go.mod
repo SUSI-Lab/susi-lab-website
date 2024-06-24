@@ -1,4 +1,4 @@
-module github.com/SUSI-Lab/susi-lab-website/
+module github.com/SUSI-Lab/susi-lab-website
 
 go 1.19
 
