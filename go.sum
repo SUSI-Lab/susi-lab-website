@@ -6,6 +6,8 @@ github.com/KaTeX/KaTeX v0.16.9 h1:4VYWM2nMSCfOPi63mTRJYQs0UmZPGTx3noiQ/vJu9Rk=
 github.com/KaTeX/KaTeX v0.16.9/go.mod h1:VI+aE+CVs/VqtbHnuhstfQST46GmrwpXH7LQAzYIouw=
 github.com/KaTeX/KaTeX v0.16.10 h1:Q7Zw1aTBezZ0y7zYkipTq9Z+Gkkohyk7xBaiZKO8yZs=
 github.com/KaTeX/KaTeX v0.16.10/go.mod h1:VI+aE+CVs/VqtbHnuhstfQST46GmrwpXH7LQAzYIouw=
+github.com/desandro/masonry v4.2.2+incompatible h1:4LI69kwq5DJSF9jhHVGfCw+q2Nt3IgJ0KzEp19Z3YiA=
+github.com/desandro/masonry v4.2.2+incompatible/go.mod h1:4P4Or5YZcNuAtGW3JOYLTrmi+ZyqhCPj7xTgradMEVU=
 github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200 h1:SmpwwN3DNzJWbV+IT8gaFu07ENUFpCvKou5BHYUKuVs=
 github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200/go.mod h1:kx8MBj9T7SFR8ZClWvKZPmmUxBaltkoXvnWlZZcSnYA=
 github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 h1:GZxx4Hc+yb0/t3/rau1j8XlAxLE4CyXns2fqQbyqWfs=
@@ -407,6 +409,8 @@ github.com/hugomods/katex v0.3.0/go.mod h1:EBY1YQTN6F8FDQz+mWp3EzEh8vDN31YjL9luV
 github.com/hugomods/katex v0.3.1/go.mod h1:EBY1YQTN6F8FDQz+mWp3EzEh8vDN31YjL9luVni+Wm0=
 github.com/hugomods/katex v0.3.2 h1:ETXxFxxu9P8FbkYwWqgWE0/7tpQTDXm6YG7XrXiTwvE=
 github.com/hugomods/katex v0.3.2/go.mod h1:i+fKI52f3QbiuK0ug5yRCB9ZJ/qUFERTk8UGuSZMQNQ=
+github.com/hugomods/masonry-js v0.1.0 h1:mZagvVEWsgyIFViMY1ZkOOJfdFV5D76eB99SHgwhbRU=
+github.com/hugomods/masonry-js v0.1.0/go.mod h1:+RHcqWxaZ9R4Z0GeAji1WiQ006/VxR5RLhOLpfVypio=
 github.com/hugomods/mermaid v0.1.1 h1:12b8DbdiKOTtPmkWOMXsBz3LKkAWVqa5tGkbEboj0a4=
 github.com/hugomods/mermaid v0.1.1/go.mod h1:7sKIZLAeYsXXnKRh4KR70UQx27xnzf0mSQ2o99zTLS0=
 github.com/hugomods/pwa v0.7.0 h1:4m8WTkWSEWi2FCnfHMJm1ZbcAPbPbHElh2gepPzfM3A=

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on </title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 31 Mar 2023 11:47:31 +0800</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Code Block</title>
+      <link>/tags/code-block/</link>
+      <pubDate>Fri, 31 Mar 2023 11:47:31 +0800</pubDate>
+      
+      <guid>/tags/code-block/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diagram</title>
+      <link>/tags/diagram/</link>
+      <pubDate>Fri, 31 Mar 2023 11:47:31 +0800</pubDate>
+      
+      <guid>/tags/diagram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KaTex</title>
+      <link>/tags/katex/</link>
+      <pubDate>Fri, 31 Mar 2023 11:47:31 +0800</pubDate>
+      
+      <guid>/tags/katex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Math</title>
+      <link>/tags/math/</link>
+      <pubDate>Fri, 31 Mar 2023 11:47:31 +0800</pubDate>
+      
+      <guid>/tags/math/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mermaid</title>
+      <link>/tags/mermaid/</link>
+      <pubDate>Fri, 31 Mar 2023 11:47:31 +0800</pubDate>
+      
+      <guid>/tags/mermaid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shortcode</title>
+      <link>/tags/shortcode/</link>
+      <pubDate>Fri, 31 Mar 2023 11:47:31 +0800</pubDate>
+      
+      <guid>/tags/shortcode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>/tags/linux/</link>
+      <pubDate>Sun, 16 Oct 2022 22:42:23 +0800</pubDate>
+      
+      <guid>/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ubuntu</title>
+      <link>/tags/ubuntu/</link>
+      <pubDate>Sun, 16 Oct 2022 22:42:23 +0800</pubDate>
+      
+      <guid>/tags/ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows</title>
+      <link>/tags/windows/</link>
+      <pubDate>Tue, 06 Sep 2022 22:42:23 +0800</pubDate>
+      
+      <guid>/tags/windows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arch Linux</title>
+      <link>/tags/arch-linux/</link>
+      <pubDate>Sun, 04 Sep 2022 22:42:23 +0800</pubDate>
+      
+      <guid>/tags/arch-linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Featured Image</title>
+      <link>/tags/featured-image/</link>
+      <pubDate>Fri, 04 Feb 2022 20:26:48 +0800</pubDate>
+      
+      <guid>/tags/featured-image/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
